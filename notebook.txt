@@ -1,6 +1,17 @@
 Date  Who       Start  Stop  Interruptions Question TimeOnTask    Comments
 9/6   Me        8:07    11:47  20           1        3:20           Studied ppts, watched videos of module 1 and setup GitHub partially
-9/6   Me        13:00   15:20  0            1        2:20           Did the homework Ex.01 - Ex. 9 of Module 1. 
+9/6   Me        13:00   15:20  0            1-9        2:20           Did the homework Ex.01 - Ex. 9 of Module 1. 
 							            Didn't know how to do Ex. 10
-9/6   Me         16:00   17:10  0            0        1:10           Read Textbook and did the homework Ex.10 of Module 1 
-============committing to git: 9/16 17:20 ===================
+9/6   Me         16:00   17:10  0            10        1:10           Read Textbook and did the homework Ex.10 of Module 1 
+============committing to git: 9/6 17:20 ===================
+9/7   Me         16:30   18:09   0           1-10       1:39          Read GitHub instruction and review the homework
+============committing to git: 9/7 18:20 ===================
+
+
+Total Time On Task Q1-Q9 (minutes)                        340 
+Total Time On Task Q10(minutes)                           70 
+Total Time On Task GitHub Setup(minutes)                  99 
+TOTQ1 (hours and tenths)                                  5.7 
+TOTQ2 (hours and tenths)                                  1.2
+Total Time On Task GitHub Setup(minutes)                  1.7 
+
